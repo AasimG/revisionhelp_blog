@@ -95,4 +95,4 @@ bottomSections:
 
 The first week of the module was a breif overview and detailed information about the module,and also some information on how to approach the project. Dr. Fehimida and Mr. Roshan gave a lecture on how to make a final proposal which is a initial outline of the project. The proposal is then submitted to the suppervisor. 
 
-The first cut proposal includes a structured and detailed outline of the project
+The first cut proposal includes a structured and detailed outline of the project. It is used to define the project's objectives, project scope, the expected development process, outlining key milestones, the resources required and the potential challenges. This document helps to ensure that the project is feasible, well planned and algned with the academic and technical requirements before moving forward with the project devlopment. 
