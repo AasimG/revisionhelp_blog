@@ -2,7 +2,7 @@
 type: PostLayout
 title:Week 1: Introduction
 colors: colors-a
-date: '2021-06-28'
+date: '2025-01-31'
 author: content/data/team/doris-soto.json
 excerpt: >-
   More context that may or may not be helpful
